@@ -1,2 +1,2 @@
-# helpful-scripts
-Collection of random scripts which may (or may not be) useful.
+# Helpful Scripts
+Collection of random scripts, tools, and configs created while messing around.
